@@ -9,6 +9,7 @@ npm install
 ```
 npm run serve
 ```
+## Correo el backend o imagen de Docker en el puerto 3000
 
 ### Compiles and minifies for production
 ```
